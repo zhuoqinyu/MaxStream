@@ -7,10 +7,10 @@ June 2018
 
 ### The Task
 For my Insight project, I worked with a company called Mux that consults with video publishers. Mux is a video analytics platform help video publishers to track their video performance. 
-
+```markdown
 ![mux_intro](https://github.com/zhuoqinyu/MaxStream/blob/master/mux_intro.png)
 
-
+```
 
 
 
