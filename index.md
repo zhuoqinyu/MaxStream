@@ -1,10 +1,14 @@
 # Max Stream: Boosting Video Watch Time
-Zhuoqin(Doris) Yu 
+Zhuoqin (Doris) Yu 
+
 June 2018
 
-## Introduction
+### Introduction
 
+### The Task
+For my Insight project, I worked with a company called Mux that consults with video publishers. Mux is a video analytics platform help video publishers to track their video performance. 
 
+[mux_intro](https://github.com/zhuoqinyu/MaxStream/mux_intro.png)
 
 
 
