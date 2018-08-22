@@ -1,5 +1,9 @@
 # Zhuoqin (Doris) Yu 
 
+### notebook 
+[link](https://drive.google.com/open?id=1zwk68TBg9IwDom5BmpnOmFnaKaEMd7RN_
+
+
 ### Slides for Insight Data Science Project
 [Slides](https://goo.gl/bWNycS)
 
