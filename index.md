@@ -1,7 +1,7 @@
 # Zhuoqin (Doris) Yu 
 
-### notebook 
-[notebook](https://drive.google.com/open?id=1zwk68TBg9IwDom5BmpnOmFnaKaEMd7RN)
+### python HT 
+[example](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html)
 
 
 ### Slides for Insight Data Science Project
