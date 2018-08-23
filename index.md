@@ -3,6 +3,8 @@
 ### python HT 
 [example](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html)
 
+### python power analysis
+[example](https://scientificallysound.org/2017/07/20/python-calculating-sample-size-for-a-2-independent-sample-t-test/)
 
 ### Slides for Insight Data Science Project
 [Slides](https://goo.gl/bWNycS)
